@@ -1,0 +1,6 @@
+{
+  "name": "Crop Recommendation System",
+  "description": "An end-to-end Machine Learning based Crop Recommendation System with a complete training portal, analytics, code sandbox, and comprehensive documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
